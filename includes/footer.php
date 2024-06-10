@@ -1,6 +1,6 @@
 <!-- /includes/footer.php -->
 <footer>
-        <p>&copy; <?php echo date('Y'); ?> My website. All rights reserved.</p>
+        <p>&copy; <?= date("2024") ?> Radisson Blu. All rights reserved.</p>
     </footer>
 </body>
 </html>
